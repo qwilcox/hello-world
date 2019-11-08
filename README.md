@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Quintin here, I like jazz, golf and occasional travel.  
+I've had my best times at the beaches.
